@@ -95,12 +95,12 @@ export const client = {
 
   // Google Reviews
   reviews: [
-    { name: "Sarah Mitchell", rating: 5, text: "Absolutely wonderful garden centre. The range of plants is fantastic and the staff are incredibly knowledgeable. Always my first stop for garden supplies.", date: "2 weeks ago", badge: "Local Guide" },
-    { name: "James Thompson", rating: 5, text: "Brilliant selection of plants and garden accessories. The cafe is lovely too. A real gem in Crawley.", date: "1 month ago" },
-    { name: "Karen Davies", rating: 4, text: "Great garden centre with a good variety of plants and outdoor furniture. Prices are fair and staff are always helpful.", date: "3 weeks ago", badge: "Local Guide" },
-    { name: "David Roberts", rating: 5, text: "Been coming here for years. The quality of plants is consistently excellent and they always have seasonal displays that inspire.", date: "2 months ago" },
-    { name: "Emma Watson", rating: 4, text: "Lovely garden centre with a fantastic cafe. Good range of plants and the landscaping service they offer is top-notch.", date: "1 month ago" },
-    { name: "Paul Harrison", rating: 5, text: "Best garden centre in the area. The staff really know their stuff and the plant quality is superb. Highly recommended.", date: "3 weeks ago", badge: "Local Guide" },
+    { name: "Richmond John", rating: 5, text: "A lovely garden center friendly staff members our go to garden center.", date: "a month ago", badge: "Local Guide" },
+    { name: "Donna Hedger", rating: 4, text: "Quite a long wait to see Santa on Christmas Eve, despite booking a specific time way in advance. Garden centre shop was nice, open, and tidy.", date: "2 months ago", badge: "Local Guide" },
+    { name: "R Carpenter", rating: 5, text: "I recently bought a dinner set from Squires in their xmas sale. Absolute gentleman and amazing customer service - thank you", date: "2 months ago" },
+    { name: "Tony Holden", rating: 4, text: "This was my first visit for a few years and it has noticeably improved in that time. The cafe/restaurant was very nice.", date: "2 years ago", badge: "Local Guide" },
+    { name: "Enoka Berrie", rating: 4, text: "Had scones and cream with tea here- it was nice. Good service.", date: "2 months ago", badge: "Local Guide" },
+    { name: "Alex Dungate", rating: 5, text: "Lovely Breakfast with Santa. Highly recommend. Thankyou", date: "3 months ago" },
   ] as { name: string; rating: number; text: string; date: string; badge?: string }[],
 
   // SEO
